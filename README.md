@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/hoangmu_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hoangmu_02" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hoangmu_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hoangmu_02" height="30" width="40" /></a>
 <a href="https://medium.com/@devfullstack2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devfullstack2002" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@dlscreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dlscreator" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@nnh10052002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nnh10052002" height="30" width="40" /></a>
