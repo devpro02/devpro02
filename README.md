@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Hoang</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpro02&label=Profile%20views&color=0e75b6&style=flat" alt="devpro02" /> </p>
 
