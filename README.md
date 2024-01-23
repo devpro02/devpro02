@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Hoang</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
-<video width="320" height="240" controls>
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-8928572-7322310.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpro02&label=Profile%20views&color=0e75b6&style=flat" alt="devpro02" /> </p>
 
 - 🔭 I’m currently learning at the **Academy of Cryptography Techniques**
