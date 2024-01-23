@@ -1,3 +1,4 @@
+ <img alt="Coder GIF" height="100" width="100" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Hoang</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devpro02&label=Profile%20views&color=0e75b6&style=flat" alt="devpro02" /> </p>
